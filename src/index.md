@@ -2,7 +2,7 @@
 layout: home
 title: Life Through Words
 metaTitle: ""
-metaDesc: "Welcome to my blog! "
+metaDesc: "こんにちは  Welcome to my blog! "
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""

@@ -3,8 +3,8 @@ layout: home
 title: LifeThroughWords
 metaTitle: ""
 metaDesc: ""
-postsHeading: Latest posts
-archiveButtonText: See all posts
+postsHeading: "- Recent Posts -"
+archiveButtonText: ✨ See All Posts ✨
 socialImage: ""
 ---
 こんにちは  

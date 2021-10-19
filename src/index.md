@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Life Through Words
+title: LifeThroughWords
 metaTitle: ""
 metaDesc: ""
 postsHeading: Latest posts

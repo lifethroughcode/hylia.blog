@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
   "name": "LifeThroughWords",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "shortDesc": "Welcome!",
   "url": "https://blog.lifethroughcode.dev/",
   "authorEmail": "example@example.com",
   "authorHandle": "",
   "authorName": "LifeThroughCode",
   "enableThirdPartyComments": false,
-  "paymentPointer": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+  "paymentPointer": "<script data-ad-client=\"ca-pub-6710139241610135\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>",
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 5
 }

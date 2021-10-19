@@ -1,11 +1,11 @@
 {
   "showThemeCredit": true,
   "name": "LifeThroughWords",
-  "shortDesc": "Welcome!",
+  "shortDesc": "Free yourself.",
   "url": "https://blog.lifethroughcode.dev/",
   "authorEmail": "example@example.com",
   "authorHandle": "",
-  "authorName": "LifeThroughCode",
+  "authorName": "LTC",
   "enableThirdPartyComments": false,
   "paymentPointer": "<script data-ad-client=\"ca-pub-6710139241610135\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>",
   "faviconPath": "src/images/favicon.png",

@@ -7,8 +7,8 @@ date: 2021-10-25T10:58:07.986Z
 tags:
   - Testing
 ---
+![Ping pong](/images/demo-image-1.jpg "Jagged architecture ")
 
 
-blob:https://blog.lifethroughcode.dev/102b30f9-9665-4d86-adc1-d321b2445eca
 
 Just your average test.

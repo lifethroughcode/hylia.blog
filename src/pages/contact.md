@@ -1,7 +1,7 @@
 ---
 layout: layouts/contact.njk
 title: Contact
-permalink: /contact/index.html
+permalink: https://www.lifethroughcode.dev/contact.html
 ---
 You can have a contact page which uses a basic form. The [code with the form fields lives here](https://github.com/hankchizljaw/hylia/blob/master/src/_includes/layouts/contact.njk). 
 

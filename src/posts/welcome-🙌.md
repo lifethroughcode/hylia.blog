@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Welcome! 🙌
-date: 2021-10-25T13:11:04.962Z
+date: 2021-10-25T13:54:41.339Z
 tags:
   - welcome
   - esxi

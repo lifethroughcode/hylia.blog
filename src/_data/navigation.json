@@ -12,8 +12,13 @@
     },
     {
       "text": "Contact Me",
-      "url": "/contact",
-      "external": false
+      "url": "https://www.lifethroughcode.dev/contact.html",
+      "external": true
+    },
+    {
+      "text": "Main Site",
+      "url": "https://www.lifethroughcode.dev",
+      "external": true
     }
   ]
 }

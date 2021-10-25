@@ -6,6 +6,8 @@ tags:
   - welcome
   - esxi
   - neko
+  - raspberrypi
+  - RPi4
 ---
 Starting a blog has been something I've wanted to do for quite some time, it's a way for me to log information for future use (i.e. how-to guides), as I can come back and see how I set up a certain piece of software, etc. It's also a way for me to put down thoughts and ideas, and maybe it will be helpful to someone else on the internet too. 
 

@@ -26,4 +26,23 @@ As an easier fix, I got a mains powered USB hub which will allow me to plug up t
 
 ###### *Note: You can use a USB stick and an external HDD at the same time as it has lower power consumption.* 
 
-Now let's begin with the walkthrough!
+Now let's begin with the walkthrough! 
+
+
+
+#### 1. Adding your new drive as a datastore.
+
+You've plugged your new drive into your Pi and you're now ready to set it up as a datastore. If you click on the main New Datastore button and try adding a new VMFS store, you'll notice it won't show your drive. First you need to go into Storage/Devices/ then select the new drive and click New Datastore, from here you will be able to add the new drive as a datastore. 
+
+If you still cannot see your drive you may need to turn off the USB arbitrator, to do this you need to SSH into your Pi, you can use the SSH Console from Host/Actions/SSH Console on the main ESXi dashboard, or just do it the usual way from your terminal *\- ssh username@IP_addressOfYourPi*  (Just make sure the SSH service is running from ESXi).
+
+Run these 2 lines - 
+
+```
+/etc/init.d/usbarbitrator stop
+chkconfig usbarbitrator off
+```
+
+**IMAGE 1 HERE**
+
+Give your new store a name for you to identify it, then select Use Full Disk, then Next and Finish. And now your new store is ready! 🎉

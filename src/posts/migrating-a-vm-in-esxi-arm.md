@@ -12,7 +12,15 @@ tags:
 ---
 I currently run a Raspberry Pi4 8GB with ESXi-ARM as a home server. I did use a 256GB SD card to install ESXi onto, with the intention of using that for the VM's to run off but I don't think it's possible to actually access the rest of that memory as a datastore to install VM's - I will look into this more at a later date. 
 
-As a temporary solution I used an old 100GB external drive I had lying about to create a datastore and run my VM's. It's been working great for what I need and mainly just runs PiHole at the moment which is set up as my DHCP server. However, I decided it would be useful to have my own cloud server where I can store Files, Photos, etc. therefore saving space on other devices and allowing the files to be accessible from any device I want, I chose to use NextCloud which is super easy to install with Ubunutu Server
+As a temporary solution I used an old 100GB external drive I had lying about to create a datastore and run my VM's. It's been working great for what I need and mainly just runs PiHole at the moment which is set up as my DHCP server. However, I decided it would be useful to have my own cloud server where I can store files, photos, etc. therefore saving space on other devices and allowing the files to be accessible from any device I want, I chose to use NextCloud which is super easy to install with Ubunutu Server.
+
+Before I did the NextCloud install, I needed to upgrade my storage; as a quick solution I got a 2TB external HDD and wanted to move my PiHole VM from the old drive onto this new one. 
+
+> I found out the hard way that the RPi4 cannot power 2 external drives at the same time!
+
+As standard the RPi4 gives 1.2A to all of the USB ports as a whole. Meaning it doesn't provide enough power for 2 external drives to be powered at the same time. (There are modifications and ways around this, but I wouldn't recommend doing them.) 
+
+As an easier fix, I got a mains powered USB hub which will allow me to plug up to 4 external drives and power them instead of the Pi doing it. 
 
 
 

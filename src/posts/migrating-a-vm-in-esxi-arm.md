@@ -10,7 +10,7 @@ tags:
   - esxiarm
   - datastore
 ---
-
+I currently run a Raspberry Pi4 8GB with ESXi-ARM as a home server
 
 
 

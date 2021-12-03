@@ -24,6 +24,6 @@ As standard the RPi4 gives 1.2A to all of the USB ports as a whole. Meaning it d
 
 As an easier fix, I got a mains powered USB hub which will allow me to plug up to 4 USB peripherals and power them instead of the Pi doing it, which then connects to the Pi using a single USB cable. I left the old HDD plugged into the Pi and plugged the new one into the USB hub, powered it on and connected it to the Pi. 
 
-*Note: You can use a USB stick and an external HDD at the same time as it has lower power consumption.* 
+###### *Note: You can use a USB stick and an external HDD at the same time as it has lower power consumption.* 
 
 Now let's begin with the walkthrough!

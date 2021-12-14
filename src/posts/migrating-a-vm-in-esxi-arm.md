@@ -71,4 +71,32 @@ We will now move the VM. Go into your datastore browser and navigate to where th
 
 ![](/images/7-select-the-vm-you-want-to-move-so-its-highlighted-then-click-move-and-select-the-store-you-want-it-moved-to.jpg "PiHole folder highlighted in blue and just need to click on 'Move' now. ")
 
-You will need to chose the destination of where you want the VM to be moved to, so I have chosen my new datastore.
+You will need to chose the destination of where you want the VM to be moved to, so I have chosen my new datastore and proceeded with the move. 
+
+![](/images/8-once-youve-selected-to-move-to-the-new-datastore-it-you-can-close-the-window-and-it-will-show-at-the-bottom-the-progress-of-the-move.jpg "Task: Move Datastore File - this will take a little while to get to 100%.")
+
+You will see at the bottom of your ESXi dashboard in your recent tasks section a new task called "Move Datastore File" this will give you a progress bar of the move. Leave it running until it says "Completed sucessfully". 
+
+When your move has completed go back into the datastore browser and locate the VM file you have just moved into your new datastore. So I will go into datastore2 then into PiHole. 
+
+You now need to right click on the .vmx file and 'Register'. So I will right click on PiHole.vmx and click on Register. 
+
+![](/images/9-when-its-finished-the-move-go-into-the-datastore-browser-click-on-the-.vmx-file-in-the-new-store-and-register-that-vmx-file.jpg "Right click on the .vmx and register.")
+
+This will now make the VM we moved appear back in the Virtual Machines page.   
+
+![](/images/10-it-should-tell-you-at-the-top-if-it-s-sucessful.jpg "A banner will appear at the top to say it's been successfully registered. ")
+
+Now you can power on your VM!!
+
+
+
+Before it powers on, you will get a popup asking if you moved or copied the VM. Select "I Moved it" and 'Answer'. 
+
+![](/images/11-go-back-to-the-vm-page-and-power-on-the-vm-we-just-moved-it-will-prompt-you-select-i-moved-it.jpg "I Moved It.")
+
+Now your VM will power on and you're back in business 🙌
+
+
+
+![](/images/12-it-will-then-power-on-.jpg "Successfully moved and powered on! ")

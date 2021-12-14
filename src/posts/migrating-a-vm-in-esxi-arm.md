@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Migrating a VM in ESXi ARM
-date: 2021-12-03T09:26:24.052Z
+date: 2021-12-14T14:48:32.913Z
 tags:
   - raspberrypi
   - pi4

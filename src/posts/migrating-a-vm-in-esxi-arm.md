@@ -63,6 +63,12 @@ Power off the VM that you want to move. I will be moving my PiHole VM.
 
 
 
-Right click on the VM and click 'Unregister'. You will see a bar at the top of the screen advising it's now been unregistered, and the VM will disappear from the Virtual Machines page. 
+Right click on the VM and click **'Unregister'**. You will see a bar at the top of the screen advising it's now been unregistered, and the VM will disappear from the Virtual Machines page. 
 
 ![](/images/6-ive-now-powered-it-off-and-un-registered-the-vm-so-its-dissapeared.jpg "My PiHole VM is now unregistered. ")
+
+We will now move the VM. Go into your datastore browser and navigate to where the VM is currently stored, click onto the main VM folder so it's highlighted, then select **Move.** For example I will click on the main PiHole folder, then select **Move** at the top of the window. 
+
+![](/images/7-select-the-vm-you-want-to-move-so-its-highlighted-then-click-move-and-select-the-store-you-want-it-moved-to.jpg "PiHole folder highlighted in blue and just need to click on 'Move' now. ")
+
+You will need to chose the destination of where you want the VM to be moved to, so I have chosen my new datastore.

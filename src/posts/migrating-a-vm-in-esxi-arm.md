@@ -41,10 +41,28 @@ Run these 2 lines -
 chkconfig usbarbitrator off
 ```
 
-**IMAGE 1 HERE**
+![](/images/1-adding-new-datastore-couldnt-see-it-when-clicking-on-the-main-add-datastore-button-so-had-to-go-to-devices-and-do-it-from-there.jpg "Select 'Use full disk'.")
+
+![](/images/2.jpg "Give it a name and Finish. ")
+
+![](/images/3.jpg "This will format the disk. ")
+
+
 
 Give your new store a name for you to identify it, then select Use Full Disk, then Next and Finish. And now your new store is ready! 🎉
 
-
+![](/images/4-done-now-its-showing-in-the-datastores-tab-and-can-be-used-for-vms.jpg "As you can see my new datastore is showing (datastore2).")
 
 Now to move your VM across.
+
+
+
+Power off the VM that you want to move. I will be moving my PiHole VM. 
+
+![](/images/5-power-off-vm-before-we-will-move-it-to-the-other-datastore.jpg "Select the VM you want to move and Power Off. ")
+
+
+
+Right click on the VM and click 'Unregister'. You will see a bar at the top of the screen advising it's now been unregistered, and the VM will disappear from the Virtual Machines page. 
+
+![](/images/6-ive-now-powered-it-off-and-un-registered-the-vm-so-its-dissapeared.jpg "My PiHole VM is now unregistered. ")

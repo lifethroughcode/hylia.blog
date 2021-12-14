@@ -102,3 +102,11 @@ Now your VM will power on and you're back in business 🙌
 
 
 ![](/images/12-it-will-then-power-on-.jpg "Successfully moved and powered on! ")
+
+
+
+Hopefully this has come in use to someone! 
+
+
+
+Until next time - Merii Kurisumasu ***(*メリークリスマス)**

@@ -26,11 +26,13 @@ As an easier fix, I got a mains powered USB hub which will allow me to plug up t
 
 ###### *Note: You can use a USB stick and an external HDD at the same time as it has lower power consumption.*
 
-Now let's begin with the walkthrough! 
+# Now let's begin with the walkthrough! 
 
 #### 1. Adding your new drive as a datastore.
 
-You've plugged your new drive into your Pi and you're now ready to set it up as a datastore. If you click on the main New Datastore button and try adding a new VMFS store, you'll notice it won't show your drive. First you need to go into Storage/Devices/ then select the new drive and click New Datastore, from here you will be able to add the new drive as a datastore. 
+You've plugged your new drive into your Pi and you're now ready to set it up as a datastore. 
+
+If you click on the main New Datastore button and try adding a new VMFS store, you'll notice it won't show your drive. First you need to go into Storage/Devices/ then select the new drive and click New Datastore, from here you will be able to add the new drive as a datastore. 
 
 If you still cannot see your drive you may need to turn off the USB arbitrator, to do this you need to SSH into your Pi, you can use the SSH Console from Host/Actions/SSH Console on the main ESXi dashboard, or just do it the usual way from your terminal *\- ssh username@IP_addressOfYourPi*  (Just make sure the SSH service is running from ESXi).
 
@@ -45,7 +47,7 @@ chkconfig usbarbitrator off
 
 ![](/images/2.jpg "Give it a name and Finish. ")
 
-![](/images/3.jpg "This will format the disk. ")
+![](/images/3.jpg "This will format the disk! So make sure there is nothing on the drive you want to keep. ")
 
 
 
@@ -53,17 +55,17 @@ Give your new store a name for you to identify it, then select Use Full Disk, th
 
 ![](/images/4-done-now-its-showing-in-the-datastores-tab-and-can-be-used-for-vms.jpg "As you can see my new datastore is showing (datastore2).")
 
-Now to move your VM across.
+## Now to move your VM across.
 
 
 
-Power off the VM that you want to move. I will be moving my PiHole VM. 
+**Power off the VM** that you want to move. I will be moving my PiHole VM. 
 
 ![](/images/5-power-off-vm-before-we-will-move-it-to-the-other-datastore.jpg "Select the VM you want to move and Power Off. ")
 
 
 
-Right click on the VM and click **'Unregister'**. You will see a bar at the top of the screen advising it's now been unregistered, and the VM will disappear from the Virtual Machines page. 
+Right click on the VM and click **'Unregister'**. You will see a banner at the top of the screen advising it's now been unregistered, and the VM will disappear from the Virtual Machines page. 
 
 ![](/images/6-ive-now-powered-it-off-and-un-registered-the-vm-so-its-dissapeared.jpg "My PiHole VM is now unregistered. ")
 
@@ -75,7 +77,7 @@ You will need to chose the destination of where you want the VM to be moved to, 
 
 ![](/images/8-once-youve-selected-to-move-to-the-new-datastore-it-you-can-close-the-window-and-it-will-show-at-the-bottom-the-progress-of-the-move.jpg "Task: Move Datastore File - this will take a little while to get to 100%.")
 
-You will see at the bottom of your ESXi dashboard in your recent tasks section a new task called "Move Datastore File" this will give you a progress bar of the move. Leave it running until it says "Completed sucessfully". 
+You will see at the bottom of your ESXi dashboard in your recent tasks section a new task called "Move Datastore File" this will give you a progress bar of the move. Leave it running until it says "Completed successfully". 
 
 When your move has completed go back into the datastore browser and locate the VM file you have just moved into your new datastore. So I will go into datastore2 then into PiHole. 
 

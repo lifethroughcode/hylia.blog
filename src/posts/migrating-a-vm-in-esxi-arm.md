@@ -26,7 +26,7 @@ As an easier fix, I got a mains powered USB hub which will allow me to plug up t
 
 ###### *Note: You can use a USB stick and an external HDD at the same time as it has lower power consumption.*
 
-# Now let's begin with the walkthrough! 
+# Now let's begin with the walkthrough!
 
 #### 1. Adding your new drive as a datastore.
 
@@ -49,21 +49,15 @@ chkconfig usbarbitrator off
 
 ![](/images/3.jpg "This will format the disk! So make sure there is nothing on the drive you want to keep. ")
 
-
-
 Give your new store a name for you to identify it, then select Use Full Disk, then Next and Finish. And now your new store is ready! 🎉
 
 ![](/images/4-done-now-its-showing-in-the-datastores-tab-and-can-be-used-for-vms.jpg "As you can see my new datastore is showing (datastore2).")
 
 ## Now to move your VM across.
 
-
-
 **Power off the VM** that you want to move. I will be moving my PiHole VM. 
 
 ![](/images/5-power-off-vm-before-we-will-move-it-to-the-other-datastore.jpg "Select the VM you want to move and Power Off. ")
-
-
 
 Right click on the VM and click **'Unregister'**. You will see a banner at the top of the screen advising it's now been unregistered, and the VM will disappear from the Virtual Machines page. 
 
@@ -91,26 +85,16 @@ This will now make the VM we moved appear back in the Virtual Machines page.
 
 Now you can power on your VM!!
 
-
-
 Before it powers on, you will get a popup asking if you moved or copied the VM. Select "I Moved it" and 'Answer'. 
 
 ![](/images/11-go-back-to-the-vm-page-and-power-on-the-vm-we-just-moved-it-will-prompt-you-select-i-moved-it.jpg "I Moved It.")
 
 Now your VM will power on and you're back in business 🙌
 
-
-
 ![](/images/12-it-will-then-power-on-.jpg "Successfully moved and powered on! ")
-
-
 
 Hopefully this has come in use to someone! 
 
-
-
 Until next time - Merii Kurisumasu ***(*メリークリスマス)**
 
-
-
-![]()
+![](/images/pexels-matt-hardy-2031687.jpg)

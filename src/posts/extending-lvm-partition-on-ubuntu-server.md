@@ -18,10 +18,10 @@ These are the steps I took to extend the drive to the full 1.5TB of disk space -
 * I logged into ESXi and opened the terminal for my Ubuntu Server that runs NextCloud. 
 * Run `sudo su` to make life easier and run all commands as sudo.
 * Then run `df -h` you can also use `lsblk` (this will let you see the full filesystem layout).
-* Here you can see how much space is available on your root partition. The one you want to extend should be called `/dev/mapper/ubuntu--vg-ubuntu--lv`
+* Here you can see how much space is available on your root partition. The one you want to extend should be called (yours might be different so replace any commands in this walkthrough with your path) `/dev/mapper/ubuntu--vg-ubuntu--lv` 
 * You can run `vgdisplay` to see if there is any free space in the volume group.
 
-Before running the following or doing any work on a live system I always recommend taking a backup of your VM! 
+Before running the following, or doing any work on a live system, I always recommend taking a backup of your VM! 
 
 * To tell our server to use the full amount of allocated disk space we can run `lvextend -l +100%FREE /dev/mapper/ubuntu--vg-ubuntu--lv` as long as you have typed everything correctly it will say the size of the logical volume has changed and sucessfully resized.
 

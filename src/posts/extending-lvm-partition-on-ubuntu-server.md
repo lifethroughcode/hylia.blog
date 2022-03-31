@@ -41,6 +41,10 @@ Run `df -h` again and if you've done it correctly then you will now see the "Siz
 
 
 
+Hope this helped, and now you can be safe in the knowledge that all your cute dog photo's are being backed up!
+
+![](/images/pexels-anna-shvets-4588049.jpg)
+
 
 
 Credit to the following pages that provided me with the information to do this -

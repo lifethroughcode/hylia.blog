@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: ProtonVPN killswitch woes in Ubuntu
+title: ProtonVPN kill switch woes in Ubuntu
 date: 2022-07-14T12:10:00.563Z
 tags:
   - ubuntu
@@ -11,13 +11,13 @@ tags:
 ---
 Yesterday I turned my laptop on, like I would any other day. Except this time, I had no internet - well, it was connected to the Wi-Fi, I could ping local devices, as well as 1.1.1.1/8.8.8.8 but I could not get onto any web pages. 
 
-My laptop is running Ubuntu 21.10 and has ProtonVPN installed which is set up with a killswitch, so whenever it's not connected to the VPN it's not going to allow an internet connection. This is great, and a feature I used permanently with no issues when I was with PIA. Annoyingly, ProtonVPN does not work so well on Ubuntu currently. 
+My laptop is running Ubuntu 21.10 and has ProtonVPN installed which is set up with a kill switch, so whenever it's not connected to the VPN it's not going to allow an internet connection. This is great, and a feature I used permanently with no issues when I was with PIA. Annoyingly, ProtonVPN does not work so well on Ubuntu currently. 
 
 I am forever having issues getting the app to open, and usually it will open the app but continue to spin around in app while it loads - and proceeds to not load. 
 
 Yesterday, Proton continued spinning, and spinning, and (you guessed it!) spinning. I restarted the laptop several times, tried running updates, and a bunch of other troubleshooting. 
 
-I was aware this was likely going to be related to the killswitch, so without much thought I deleted all ProtonVPN packages (protonvpn-cli, protonvpn-gui, etc.). If it's not installed it won't cause any problems, right? Wrong.
+I was aware this was likely going to be related to the kill switch, so without much thought I deleted all ProtonVPN packages (protonvpn-cli, protonvpn-gui, etc.). If it's not installed it won't cause any problems, right? Wrong.
 
 To uninstall I used the following commands as you would with most programs on Linux - 
 
@@ -45,10 +45,8 @@ I'm not going to pretend I've done much research on this so can't give a definit
 
 This is telling the network manager cli to delete the connection for this IPv6 leak protection. 
 
-Now all being well your computer should connect again and you can go ahead and reinstall Proton VPN (and maybe leave the killswitch off for now).
+Now all being well your computer should connect again and you can go ahead and reinstall Proton VPN (and maybe leave the kill switch off for now).
 
+Please note I absolutely love ProtonVPN and will continue to recommend them. On my Windows machine I have had no problems with the kill switch ever. But it can be rather buggy on Ubuntu from my experience, and this took me a little while to troubleshoot. 
 
-
-Please note I absolutely love ProtonVPN and will continue to recommend them. On my Windows machine I have had no problems with the killswitch ever. But it can be rather buggy on Ubuntu from my experience, and this took me a little while to troubleshoot. 
-
-Big thanks to reddit user "scotsmanintoon" who posted the command that fixed this for me. 💖
+Big thanks to Reddit user "scotsmanintoon" who posted the command that fixed this for me. 💖

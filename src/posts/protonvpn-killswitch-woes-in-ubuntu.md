@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: ProtonVPN killswitch woes in Ubuntu
-date: 2022-07-14T11:22:02.951Z
+date: 2022-07-14T12:10:00.563Z
 tags:
   - ubuntu
   - protonvpn
@@ -46,3 +46,9 @@ I'm not going to pretend I've done much research on this so can't give a definit
 This is telling the network manager cli to delete the connection for this IPv6 leak protection. 
 
 Now all being well your computer should connect again and you can go ahead and reinstall Proton VPN (and maybe leave the killswitch off for now).
+
+
+
+Please note I absolutely love ProtonVPN and will continue to recommend them. On my Windows machine I have had no problems with the killswitch ever. But it can be rather buggy on Ubuntu from my experience, and this took me a little while to troubleshoot. 
+
+Big thanks to reddit user "scotsmanintoon" who posted the command that fixed this for me. 💖

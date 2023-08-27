@@ -51,10 +51,8 @@ Please note I absolutely love ProtonVPN and will continue to recommend them. On 
 
 Big thanks to Reddit user "scotsmanintoon" who posted the command that fixed this for me. 💖
 
-
-
 > ✨Update✨ 
 >
 > August 2023
 >
-> Full removal guide can be found here along with process for removing permanent killswitch- https://protonvpn.com/support/linux-ubuntu-vpn-setup/
+> Full removal guide can be found here along with process for removing permanent killswitch- <https://protonvpn.com/support/linux-ubuntu-vpn-setup/>

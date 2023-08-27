@@ -50,3 +50,11 @@ Now all being well your computer should connect again and you can go ahead and r
 Please note I absolutely love ProtonVPN and will continue to recommend them. On my Windows machine I have had no problems with the kill switch ever. But it can be rather buggy on Ubuntu from my experience, and this took me a little while to troubleshoot. 
 
 Big thanks to Reddit user "scotsmanintoon" who posted the command that fixed this for me. 💖
+
+
+
+> ✨Update✨ 
+>
+> August 2023
+>
+> Full removal guide can be found here along with process for removing permanent killswitch- https://protonvpn.com/support/linux-ubuntu-vpn-setup/

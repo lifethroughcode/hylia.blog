@@ -11,4 +11,12 @@ I am going to try post here at least once a month going forward. I had a few mes
 
 Password manager - bitwarden / lastpass / keypass xc for people that know what they're doing
 
-make sure you have backups unencrypted and save them to a veracrypt volume on usb.
+make sure you have backups unencrypted and save them to a veracrypt volume on usb. 
+
+
+
+2fa options.
+
+
+
+Privacy options on browsers etc.

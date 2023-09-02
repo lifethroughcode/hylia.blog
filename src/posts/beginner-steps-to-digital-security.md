@@ -7,11 +7,11 @@ date: 2023-08-28T18:24:00.135Z
 
 ##### *I am going to try post here at least once a month going forward. I had a few messages from people that found my last post about Proton VPN helpful, and that was really nice to see, and has prompted me to make a bit more effort with this blog.*
 
+Our whole lives are connected to the internet, so it's important to understand some ways you can protect yourself.
+
+This post is going to cover a few things you can do, or should be aware of, that will help you become more secure online. I see a lot of people on a daily basis that are not security conscious at all, or do not understand the importance of online security. 
 
 
-This post is going to cover a few things you can do, or should be aware of, that will help you become more secure online. I see a lot of people on a daily basis that are not security concious at all, or do not understand the importance of online security. 
-
-Our whole lives are connected to the internet, 
 
 
 

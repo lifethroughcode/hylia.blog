@@ -11,7 +11,7 @@ date: 2023-08-28T18:24:00.135Z
 
 This post is going to cover a few things you can do, or should be aware of, that will help you become more secure online. I see a lot of people on a daily basis that are not security concious at all, or do not understand the importance of online security. 
 
-Our whole lives are connected to the internet, from 
+Our whole lives are connected to the internet, 
 
 
 

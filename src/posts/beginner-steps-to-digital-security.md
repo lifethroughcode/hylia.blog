@@ -17,9 +17,9 @@ This is the first step I would recommend to everyone, get control over your onli
 
 There are several options for helping organise your accounts and passwords, the main one I recommend is Bitwarden, it's easy to get started and using the cloud option means your passwords will sync between devices.
 
-This will allow you to create random passwords for your accounts rather than the same 3 passwords for everything! With a password manager you don't need to know your passwords, they should be completely random. You can then copy the password from your vault, or even use autofill features via browser extensions or mobile apps. 
+This will allow you to create random passwords for your accounts rather than the same 3 passwords for everything! With a password manager you don't need to know your passwords, they should be completely random. You can then copy the password from your vault, or even use auto-fill features via browser extensions or mobile apps. 
 
-There are many others on the market, I would like to try Proton Pass at some point as I'm interested in the SimpleLogin integration for email aliases. 
+There are many others on the market but this is the one I have the most experience with. I would like to try Proton Pass at some point as I'm interested in the SimpleLogin integration for email aliases, so I may migrate to that eventually.
 
 If your technical skills are more advanced you could host Bitwarden yourself, or use something like KeyPassXC. But if you want a hassle/maintenance free password manager that just works I would not recommend this. 
 

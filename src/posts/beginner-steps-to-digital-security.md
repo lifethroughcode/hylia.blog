@@ -25,9 +25,17 @@ If your technical skills are more advanced you could host Bitwarden yourself, or
 
 Just make sure you use a good master password, and take regular backups!! A USB with a Veracrypt volume is a great way to have a last resort backup - <https://bitwarden.com/resources/guide-how-to-create-and-store-a-backup-of-your-bitwarden-vault/>
 
+# \#2 Two Factor Authentication
+
+Often referred to as 2FA or MFA (multi factor authentication).
+
+When you login to site or service, you will be prompted to enter a code which is sent or created from another device. The most common one's seen are text based authentication where the site will send a code to the mobile number on the account. This is ok, but not as secure as using an authenticatior app, like Aegis, Authy, Google Authenticator, etc. 
+
+MAke sure to backup your seed codes. 
 
 
 
+Make sure to set up 2fa on your password manager!!!!
 
 browser externsions and apps
 

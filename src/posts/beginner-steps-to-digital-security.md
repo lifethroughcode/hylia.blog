@@ -9,13 +9,13 @@ date: 2023-08-28T18:24:00.135Z
 
 Our whole lives are connected to the internet, so it's important to understand some ways you can protect yourself.
 
-This post is going to cover a few things you can do, or should be aware of, that will help you become more secure online. I see a lot of people on a daily basis that are not security conscious at all, or do not understand the importance of online security. 
+This post is going to cover a few things you can do, or should be aware of, that will help you become more secure online. I see a lot of people on a daily basis that are not security conscious at all, or do not understand the importance of online security. I'm not going to get too technical in this post, but I may split this up into more detailed posts in future. 
 
 # \#1 Use a password manager
 
 This is the first step I would recommend to everyone, get control over your online accounts and secure them properly. 
 
-There are several options for helping organise your accounts and passwords, the main one I recommend is Bitwarden, it's easy to get started and using the cloud option means your passwords will sync between devices.
+There are several options for helping you to organise your accounts and passwords, the main one I recommend is Bitwarden, it's easy to get started and using the cloud option means your passwords will sync between devices.
 
 This will allow you to create random passwords for your accounts rather than the same 3 passwords for everything! With a password manager you don't need to know your passwords, they should be completely random. You can then copy the password from your vault, or even use auto-fill features via browser extensions or mobile apps. 
 

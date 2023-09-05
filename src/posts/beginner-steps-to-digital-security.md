@@ -61,7 +61,13 @@ Also consider the little things like your WhatsApp profile picture for example, 
 
 The more information you post online about your life the more vulnerable you become. It can be nice to share goals and achievements but be careful who you are sharing this with, and is the risk worth it.
 
-# \#5 VPN and DNS
+
+
+# \#5 VPN, DNS & Browser's
+
+When you make a search online this is not private, your ISP (Internet Service Provider) will be able to see this, this data can then be used for advertising as well as other things. Websites will also log information about your connection including your public IP address which is not ideal.
+
+To protect yourself from this it's best to use a VPN (Virtual Private Network). This encrypts your data in transit and routes it through a private server making your data unreadable to your ISP
 
 Privacy plugins etc.DNS quad 1 
 

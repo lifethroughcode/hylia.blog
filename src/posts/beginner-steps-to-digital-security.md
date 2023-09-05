@@ -39,6 +39,12 @@ Make sure you set up 2FA on your Password Manager too!
 
 
 
+# \#3 Update everything
+
+Updates are so important, they often include security fixes that help protect your device from known attacks. 
+
+
+
 
 
 MAke sure to backup your seed codes. 

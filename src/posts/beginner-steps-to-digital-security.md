@@ -67,7 +67,13 @@ The more information you post online about your life the more vulnerable you bec
 
 When you make a search online this is not private, your ISP (Internet Service Provider) will be able to see this, this data can then be used for advertising as well as other things. Websites will also log information about your connection including your public IP address which is not ideal.
 
-To protect yourself from this it's best to use a VPN (Virtual Private Network). This encrypts your data in transit and routes it through a private server making your data unreadable to your ISP
+To protect yourself from this it's best to use a VPN (Virtual Private Network). This encrypts your data in transit and routes it through a private server making your data unreadable to your ISP and protecting your public IP from being exposed.
+
+I would not recommend using a free VPN service as they will likely collect your data and sell it. You want a paid service that has a no logging policy, meaning they won't store your identifiable information.
+
+
+
+ 
 
 Privacy plugins etc.DNS quad 1 
 

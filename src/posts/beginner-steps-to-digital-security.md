@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Beginner steps to cyber security
-date: 2023-09-05T12:28:23.020Z
+date: 2023-09-05T12:35:35.927Z
 tags:
   - cybersecurity
   - security

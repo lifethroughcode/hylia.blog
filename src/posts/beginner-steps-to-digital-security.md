@@ -43,13 +43,29 @@ Make sure you set up 2FA on your Password Manager too!
 
 Updates are so important, they often include security fixes that help protect your device from known attacks. 
 
-If set up to do so then most devices will update automatically but I make an effort to check mine on a regular basis, including; computer operating system, mobile, app updates from PlayStore/AppStore, if you run any servers update them regularly as well where possible. 
+If set up to do so then most devices will update automatically but I make an effort to check mine on a regular basis, including; computer operating system, mobile phone iOS/Android, app updates from PlayStore/AppStore, if you run any servers update them regularly as well where possible. 
 
 Don't forget to check for updates on your network equipment, routers, switches, access points, etc. just be sure to backup the config first. 
 
 
 
+# \#4 Be careful what you post online
 
+I see so many people post personal identifiable information online, or even pictures that make it very easy to work out where they live, I've even seen this on Instagram accounts of famous people. 
+
+Before you post pictures to social media check whats in the background, the smallest details can be used to figure out your location, or potentially useful to get into online accounts, or for identity fraud. 
+
+I would highly recommend not posting photos of your children online. There are so many risks involved with doing this, the biggest risk is child predators using these pictures, and it does happen. I could write a whole post about this topic and possibly will in future. 
+
+The more information you post online about your life the more vulnerable you become 
+
+
+
+
+
+Privacy plugins etc.DNS quad 1 
+
+VPN's etc. broadband can see what you search
 
 MAke sure to backup your seed codes. 
 

@@ -1,7 +1,11 @@
 ---
 layout: layouts/post.njk
 title: Beginner steps to digital security
-date: 2023-08-28T18:24:00.135Z
+date: 2023-09-05T12:28:23.020Z
+tags:
+  - cybersecurity
+  - security
+  - ""
 ---
 ##### *It's been a while since I last made a post here - a little too long!*
 

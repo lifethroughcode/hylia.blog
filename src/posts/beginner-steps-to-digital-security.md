@@ -9,7 +9,9 @@ date: 2023-08-28T18:24:00.135Z
 
 Our whole lives are connected to the internet, so it's important to understand some ways you can protect yourself.
 
-This post is going to cover a few things you can do, or should be aware of, that will help you become more secure online. I see a lot of people on a daily basis that are not security conscious at all, or do not understand the importance of online security. I'm not going to get too technical in this post, but I may split this up into more detailed posts in future. 
+This post is going to cover a few things you can do, or should be aware of, that will help you become more secure online. I see a lot of people on a daily basis that are not security conscious at all, or do not understand the importance of online security. 
+
+I'm not going to get too technical in this post, but I may split this up into more detailed posts in future. 
 
 # \#1 Use a password manager
 
@@ -47,15 +49,15 @@ Don't forget to check for updates on your network equipment, routers, switches, 
 
 # \#4 Be careful what you post online
 
-I see so many people post personal identifiable information online, or even pictures that make it very easy to work out where they live, I've even seen this on Instagram accounts of famous people. 
+I see so many people post personal identifiable information online without realising, or even pictures that make it very easy to work out where they live, I've even seen this on Instagram accounts of famous people. 
 
-Before you post pictures to social media check whats in the background, the smallest details can be used to figure out your location, or potentially useful to get into online accounts, or for identity fraud. 
+Before you post pictures to social media check whats in the background, the smallest details can be used to figure out your location, could be potentially useful to get into online accounts, or used for identity fraud. 
 
-I would highly recommend not posting photos of your children online. There are so many risks involved with doing this, the biggest risk is child predators using these pictures, and it does happen. I could write a whole post about this topic and possibly will in future. 
+I would highly recommend not posting photos of your children online. There are so many risks involved with doing this, the biggest risk is child predators using these pictures, and it does happen. I could write a whole post about this topic alone and possibly will in future. 
 
 Also consider the little things like your WhatsApp profile picture for example, this is public to anyone if they have your mobile number.
 
-The more information you post online about your life the more vulnerable you become. It can be nice to share goals and achievements but be careful who you are sharing this with, and is the risk worth it.
+The more information you post online about your life the more vulnerable you become. It can be nice to share achievements, etc. but be careful who you are sharing this with, and think is the risk worth it.
 
 # \#5 VPN
 
@@ -66,3 +68,7 @@ To protect yourself from this it's best to use a VPN (Virtual Private Network). 
 I would not recommend using a free VPN service as they will likely collect your data and sell it. You want a paid service that has a no logging policy, meaning they won't store any identifiable information.
 
 There are plenty of good options for this, personally I recommend Proton VPN, it's very stable and I trust their security and privacy. It's also really good value if you go for Proton Unlimited as you get Mail, Cloud storage, and a Password manager as well as the VPN. <https://proton.me/>
+
+
+
+#### Hopefully this helps someone, or gives you inspiration to become more secure. Or at least makes you think about what you post online, and become more aware of the risks involved.

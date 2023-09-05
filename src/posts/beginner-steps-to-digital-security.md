@@ -43,6 +43,10 @@ Make sure you set up 2FA on your Password Manager too!
 
 Updates are so important, they often include security fixes that help protect your device from known attacks. 
 
+If set up to do so then most devices will update automatically but I make an effort to check mine on a regular basis, including; computer operating system, mobile, app updates from PlayStore/AppStore, if you run any servers update them regularly as well where possible. 
+
+Don't forget to check for updates on your network equipment, routers, switches, access points, etc. just be sure to backup the config first. 
+
 
 
 

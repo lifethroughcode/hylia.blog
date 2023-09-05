@@ -74,3 +74,5 @@ There are plenty of good options for this, personally I recommend Proton VPN, it
 
 
 #### Hopefully this helps someone, or gives you inspiration to become more secure. Or at least makes you think about what you post online, and become more aware of the risks involved.
+
+#### Keep an eye out as I will be posting more frequently, and will provide more technical posts regarding privacy and security.

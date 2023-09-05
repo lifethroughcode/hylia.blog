@@ -57,11 +57,11 @@ Before you post pictures to social media check whats in the background, the smal
 
 I would highly recommend not posting photos of your children online. There are so many risks involved with doing this, the biggest risk is child predators using these pictures, and it does happen. I could write a whole post about this topic and possibly will in future. 
 
+Also consider the little things like your WhatsApp profile picture for example, this is public to anyone if they have your mobile number.
+
 The more information you post online about your life the more vulnerable you become. It can be nice to share goals and achievements but be careful who you are sharing this with, and is the risk worth it.
 
-
-
-
+# \#5 VPN and DNS
 
 Privacy plugins etc.DNS quad 1 
 

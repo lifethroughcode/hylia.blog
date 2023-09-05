@@ -37,8 +37,6 @@ Just make sure you are backing up your token vault, and you securely save the ba
 
 Make sure you set up 2FA on your Password Manager too! 
 
-
-
 # \#3 Update everything
 
 Updates are so important, they often include security fixes that help protect your device from known attacks. 
@@ -46,8 +44,6 @@ Updates are so important, they often include security fixes that help protect yo
 If set up to do so then most devices will update automatically but I make an effort to check mine on a regular basis, including; computer operating system, mobile phone iOS/Android, app updates from PlayStore/AppStore, if you run any servers update them regularly as well where possible. 
 
 Don't forget to check for updates on your network equipment, routers, switches, access points, etc. just be sure to backup the config first. 
-
-
 
 # \#4 Be careful what you post online
 
@@ -61,9 +57,7 @@ Also consider the little things like your WhatsApp profile picture for example, 
 
 The more information you post online about your life the more vulnerable you become. It can be nice to share goals and achievements but be careful who you are sharing this with, and is the risk worth it.
 
-
-
-# \#5 VPN, DNS & Browser's
+# \#5 VPN
 
 When you search online this is not private, your ISP (Internet Service Provider) will be able to see this, and the data can then be used for advertising as well as other things. Websites will also log information about your connection including your public IP address which is not ideal.
 
@@ -71,26 +65,4 @@ To protect yourself from this it's best to use a VPN (Virtual Private Network). 
 
 I would not recommend using a free VPN service as they will likely collect your data and sell it. You want a paid service that has a no logging policy, meaning they won't store any identifiable information.
 
-There are plenty of good options for this, personally I recommend Proton VPN, it's very stable and I trust their security and privacy. It's also really good value if you go for Proton Unlimited as you get Mail, Cloud storage, and a Password manager as well as the VPN. 
-
- 
-
-Privacy plugins etc.DNS quad 1 
-
-VPN's etc. broadband can see what you search
-
-MAke sure to backup your seed codes. 
-
-Make sure to set up 2fa on your password manager!!!!
-
-browser externsions and apps
-
-be careful what you post online, whatsapp pictures are public
-
-Password manager - bitwarden / lastpass / keypass xc for people that know what they're doing
-
-make sure you have backups unencrypted and save them to a veracrypt volume on usb. 
-
-2fa options.
-
-Privacy options on browsers etc.
+There are plenty of good options for this, personally I recommend Proton VPN, it's very stable and I trust their security and privacy. It's also really good value if you go for Proton Unlimited as you get Mail, Cloud storage, and a Password manager as well as the VPN. <https://proton.me/>

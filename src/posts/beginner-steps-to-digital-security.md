@@ -29,7 +29,7 @@ Just make sure you use a good master password, and take regular backups!! A USB 
 
 Often referred to as 2FA or MFA (multi factor authentication).
 
-When you login to site or service, you will be prompted to enter a code which is sent or created from another device. The most common one's seen are SMS based authentication where the site will send a code to the mobile number on the account. This is ok, but not as secure as using an authenticator app, like Aegis (Android only), Authy, Google Authenticator, etc. That being said SMS 2FA is better than nothing! 
+When you login to a site or service, you will be prompted to enter a code which is sent or created from another device. The most common one's seen are SMS based authentication where the site will send a code to the mobile number on the account. This is ok, but not as secure as using an authenticator app, like Aegis (Android only), Authy, Google Authenticator, etc. That being said SMS 2FA is better than nothing! 
 
 Personally I like Aegis if you have an android device, it feels a lot more security focused than other options. And it encrypts the tokens at rest. It's also available on F-Droid if preferred. <https://getaegis.app/>
 

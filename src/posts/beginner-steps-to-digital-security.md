@@ -1,10 +1,16 @@
 ---
 layout: layouts/post.njk
-title: Beginner steps to digital security
+title: Beginner steps to cyber security
 date: 2023-09-05T12:28:23.020Z
 tags:
   - cybersecurity
   - security
+  - privacy
+  - vpn
+  - bitwarden
+  - proton
+  - 2fa
+  - digitalsecurity
   - ""
 ---
 ##### *It's been a while since I last made a post here - a little too long!*

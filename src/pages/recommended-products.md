@@ -18,4 +18,4 @@ There is a free version, but the Proton Unlimited plan is very cheap considering
 
 [Aegis](https://getaegis.app/) is an alternative to proprietary two factor authentication apps like Google Authenticator and Authy. Its most important features, are security and backups.
 
-**It is currently only available on Android devices.**
+**It is currently only available on Android devices via PlayStore or F-Droid.**

@@ -50,27 +50,35 @@ Or if you like to be fancy you can use neofetch (sudo apt install neofetch).
 
 Therefore I am going to download this package, you will want to download the correct one for your OS -
 
+![](/images/3-copy.png)
+
 Make sure to also download the PGP Signature next to it as you will need this to verify the package.
 
 In your Downloads folder you should now have the following 2 files -
 
-Do not install the package yet, it’s recommended to verify the package first, and as this is being used for such important data you really want to make sure.
+![](/images/4-copy.png)
 
-“It might happen that a VeraCrypt installation package you download from our server was created or modified by an attacker. For example, the attacker could exploit a vulnerability in the server software we use and alter the installation packages stored on the server, or he/she could alter any of the files en route to you.
+**Do not install the package yet, it’s recommended to verify the package first, and as this is being used for such important data you really want to make sure.**
 
-Therefore, you should always verify the integrity and authenticity of each VeraCrypt distribution package you download or otherwise obtain from any source. In other words, you should always make sure that the file was created by us and it was not altered by an attacker. One way to do so is to verify so-called digital signature(s) of the file.”
+*“It might happen that a VeraCrypt installation package you download from our server was created or modified by an attacker. For example, the attacker could exploit a vulnerability in the server software we use and alter the installation packages stored on the server, or he/she could alter any of the files en route to you.*
 
-Step 3 -
+*Therefore, you should always verify the integrity and authenticity of each VeraCrypt distribution package you download or otherwise obtain from any source. In other words, you should always make sure that the file was created by us and it was not altered by an attacker. One way to do so is to verify so-called digital signature(s) of the file.”*
+
+# Step 3 -
 
 Open the terminal point it to your Downloads folder.
 
 Either by clicking on the 3 dots while inside the Downloads folder and selecting ‘Open in Terminal’.
+
+![](/images/5-copy.png)
 
 Or from a terminal type ‘cd Downloads’ and press enter.
 
 Now run the command 'wget <https://www.idrix.fr/VeraCrypt/VeraCrypt_PGP_public_key.asc>'
 
 This will download the VeraCrypt public key to your Downloads folder.
+
+![](/images/6-copy.png)
 
 I have run the command and it’s downloaded the public key, and I have confirmed it’s in my Downloads folder by running ‘ls’ and you can see VeraCrypt_PGP_public_key.asc in there, as well as our previous 2 files.
 

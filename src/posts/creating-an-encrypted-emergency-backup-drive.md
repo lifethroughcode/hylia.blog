@@ -156,7 +156,7 @@ We only want an encrypted container, so leave on default and press next.
 
 ![](/images/14-copy.png)
 
-I am going to leave this on standard for this tutorial, but you can use a hidden volume if you wish. Click next.
+I am going to leave this on standard for this tutorial, but you can use a hidden volume if you wish. Click Next.
 
 ![](/images/15-copy.png)
 

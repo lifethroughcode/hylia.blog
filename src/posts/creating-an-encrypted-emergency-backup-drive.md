@@ -196,7 +196,7 @@ Choose a Volume format, FAT should be suitable for most use cases.
 
 Now make random movements around the window with your mouse to increase the cryptographic strength of the encryption keys. I am going to keep moving the mouse until the blue bar is full.
 
-Then click format.
+Then click Format.
 
 ![](/images/24-copy.png "Encryption go brrrrrrrrrrr")
 

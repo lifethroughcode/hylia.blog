@@ -82,7 +82,7 @@ This will download the VeraCrypt public key to your Downloads folder.
 
 I have run the command and it’s downloaded the public key, and I have confirmed it’s in my Downloads folder by running `ls`. You can see VeraCrypt_PGP_public_key.asc in there, as well as our previous 2 files.
 
-Now you want to run the following command (our terminal still needs to be pointing at Downloads) - 'gpg --show-keys VeraCrypt_PGP_public_key.asc'
+Now you want to run the following command (our terminal still needs to be pointing at Downloads) - `gpg --show-keys VeraCrypt_PGP_public_key.asc`
 
 ![](/images/7-copy.png)
 
@@ -112,7 +112,7 @@ If the codes do not match do **not** continue with the install, delete the packa
 
 Once we have verified the key matches, we can now import the public key -
 
-'gpg --import VeraCrypt_PGP_public_key.asc'
+`gpg --import VeraCrypt_PGP_public_key.asc`
 
 ![](/images/9-copy.png)
 
@@ -120,7 +120,7 @@ With the key imported, we now want to verify the signature of the package using 
 
 To do this we need to run the following, you will of course need to modify to match the filenames for your version.
 
-‘gpg --verify veracrypt-1.26.7-Ubuntu-22.04-amd64.deb.sig veracrypt-1.26.7-Ubuntu-22.04-amd64.deb’
+`gpg --verify veracrypt-1.26.7-Ubuntu-22.04-amd64.deb.sig veracrypt-1.26.7-Ubuntu-22.04-amd64.deb`
 
 We are first pointing at the signature (.sig), and then putting a space and then pointing at the package (.deb).
 
@@ -128,7 +128,7 @@ We are first pointing at the signature (.sig), and then putting a space and then
 
 All being well you should get the same as above, check the RSA key matches the fingerprint we got earlier, and that you get ‘Good signature from VeraCrypt Team’.
 
-The process for Windows is slightly different and you will need to use something like gpg4win.org
+The process for Windows is slightly different and you will need to use something like [gpg4win.org](gpg4win.org)
 
 # Step 5 -
 

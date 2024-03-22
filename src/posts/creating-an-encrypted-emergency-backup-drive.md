@@ -138,29 +138,49 @@ This can be done by double clicking on the .deb file and installing via your pac
 
 You can also install via the terminal using ‘sudo dpkg -i veracrypt-1.26.7-Ubuntu-22.04-amd64.deb’.
 
+![](/images/11-copy.png)
+
 Once finished you can now find VeraCrypt and open it from your Applications menu.
 
-Step 6 -
+# Step 6 -
+
+![](/images/12-copy.png)
 
 Once opened you will need to plug your drive in if not already done.
 
 Now click on ‘Create Volume’.
 
+![](/images/13-copy.png)
+
 We only want an encrypted container, so leave on default and press next.
+
+![](/images/14-copy.png)
 
 I am going to leave this on standard for this tutorial, but you can use a hidden volume if you wish. Click next.
 
+![](/images/15-copy.png)
+
 Now you want to click ‘Select File…’ and look for the USB drive you plugged in.
+
+![](/images/16-copy.png)
 
 As you can see I have selected my Samsung USB, and at the top in the Name field I have typed what I want my encrypted volume to be called, for now I will just call it ‘Encrypted files’.
 
 Once you have done this click on ‘Save’.
 
+![](/images/17-copy.png)
+
 As you can see the location is now pointing to the Samsung USB with the volume name that we set in the previous window. Click Next.
+
+![](/images/18-copy.png)
 
 I am going to stick with using the default AES Encryption with the SHA-512 Hash, which should be fine for pretty much all use cases.
 
+![](/images/19-copy.png)
+
 Set the size you want your encrypted volume to be, I’m going to use 10GB for this tutorial, but you want to set it to a sufficient amount for the data you will be storing. You can still use the remaining space available as non encrypted, or you can create several volumes on the USB perhaps for different data.
+
+![](/images/20-copy.png)
 
 Set a strong password here (no Password123 is not strong).
 

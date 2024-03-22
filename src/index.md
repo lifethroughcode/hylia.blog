@@ -7,4 +7,6 @@ postsHeading: "- Recent Posts -"
 archiveButtonText: ✨ See All Posts ✨
 socialImage: ""
 ---
-Welcome to my blog! Here is where I post random things I've been working on, it serves as an archive for me to look back on, and also to potentially help other people working on similar projects.
+Welcome to my blog! Here is where I post things I've been working on, guides/walkthroughs, and anything else that interests me! 
+
+It also serves as an archive for me to look back on, and to potentially help other people working on similar projects.

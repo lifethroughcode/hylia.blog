@@ -249,3 +249,9 @@ Then when you need to add or update the contents just plug it in, mount it using
 
 
 You can now unplug the USB as usual and store it in a safe place, on a key chain, or even on a necklace.
+
+
+
+Hopefully this helps, and inspires you to think about taking more steps to protecting your data.
+
+Until next time!

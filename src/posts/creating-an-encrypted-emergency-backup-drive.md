@@ -84,11 +84,15 @@ I have run the command and it’s downloaded the public key, and I have confirme
 
 Now you want to run the following command (our terminal still needs to be pointing at Downloads) - 'gpg --show-keys VeraCrypt_PGP_public_key.asc'
 
+![](/images/7-copy.png)
+
 We need to pay attention to the code highlighted -
 
 5069A233D55A0EEB174A5FC3821ACD02680D16DE
 
 Go to the VeraCrypt Downloads page again, and scroll to the bottom of the page, you will see this -
+
+![](/images/8-copy.png)
 
 You want to take the code from your terminal and make sure it matches the Fingerprint from the VeraCrypt website.
 
@@ -104,11 +108,13 @@ As you can see these 2 codes match, which means we are safe to proceed.
 
 If the codes do not match do **not** continue with the install, delete the package and maybe ask in the VeraCrypt forum for additional advice on downloading a safe copy of the package.
 
-Step 4 -
+# Step 4 -
 
 Once we have verified the key matches, we can now import the public key -
 
 'gpg --import VeraCrypt_PGP_public_key.asc'
+
+![](/images/9-copy.png)
 
 With the key imported, we now want to verify the signature of the package using the .sig file we downloaded earlier.
 
@@ -118,11 +124,13 @@ To do this we need to run the following, you will of course need to modify to ma
 
 We are first pointing at the signature (.sig), and then putting a space and then pointing at the package (.deb).
 
+![](/images/10-copy.png)
+
 All being well you should get the same as above, check the RSA key matches the fingerprint we got earlier, and that you get ‘Good signature from VeraCrypt Team’.
 
 The process for Windows is slightly different and you will need to use something like gpg4win.org
 
-Step 5 -
+# Step 5 -
 
 You can now install VeraCrypt – finally!
 

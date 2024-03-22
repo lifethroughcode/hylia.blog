@@ -136,7 +136,7 @@ You can now install VeraCrypt – finally!
 
 This can be done by double clicking on the .deb file and installing via your package manager, in my case this is Eddy which is the default for Pop!_OS and this is how I am going to install the package.
 
-You can also install via the terminal using ‘sudo dpkg -i veracrypt-1.26.7-Ubuntu-22.04-amd64.deb’.
+You can also install via the terminal using `sudo dpkg -i veracrypt-1.26.7-Ubuntu-22.04-amd64.deb`.
 
 ![](/images/11-copy.png)
 

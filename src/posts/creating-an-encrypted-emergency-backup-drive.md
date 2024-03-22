@@ -216,7 +216,7 @@ Find and select the encrypted volume you just made and then click ‘Open’.
 
 ![](/images/28-copy.png)
 
-You can see here the path under Volume has updated check this is correct, now select a slot you can click on slot 1 to highlight it, then click ‘Mount’.
+You can see here the path under Volume has updated check this is correct, now select a slot, you can click on slot 1 to highlight it, then click ‘Mount’.
 
 ![](/images/29-copy.png)
 
@@ -230,7 +230,7 @@ You can double click on Slot 1 to open up the volume in your file explorer, or y
 
 ![](/images/31-copy.png)
 
-Save the important files you want secured in here.
+Save the important files you want secured in your encrypted volume once mounted.
 
 ![](/images/32-copy.png)
 

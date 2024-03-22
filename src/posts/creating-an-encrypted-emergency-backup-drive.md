@@ -128,7 +128,7 @@ We are first pointing at the signature (.sig), and then putting a space and then
 
 All being well you should get the same as above, check the RSA key matches the fingerprint we got earlier, and that you get ‘Good signature from VeraCrypt Team’.
 
-The process for Windows is slightly different and you will need to use something like [gpg4win.org](gpg4win.org)
+The process for Windows is slightly different and you will need to use something like [gpg4win.org](https://gpg4win.org)
 
 # Step 5 -
 

@@ -60,9 +60,9 @@ In your Downloads folder you should now have the following 2 files -
 
 **Do not install the package yet, it’s recommended to verify the package first, and as this is being used for such important data you really want to make sure.**
 
-*“It might happen that a VeraCrypt installation package you download from our server was created or modified by an attacker. For example, the attacker could exploit a vulnerability in the server software we use and alter the installation packages stored on the server, or he/she could alter any of the files en route to you.*
-
-*Therefore, you should always verify the integrity and authenticity of each VeraCrypt distribution package you download or otherwise obtain from any source. In other words, you should always make sure that the file was created by us and it was not altered by an attacker. One way to do so is to verify so-called digital signature(s) of the file.”*
+> *“It might happen that a VeraCrypt installation package you download from our server was created or modified by an attacker. For example, the attacker could exploit a vulnerability in the server software we use and alter the installation packages stored on the server, or he/she could alter any of the files en route to you.*
+>
+> *Therefore, you should always verify the integrity and authenticity of each VeraCrypt distribution package you download or otherwise obtain from any source. In other words, you should always make sure that the file was created by us and it was not altered by an attacker. One way to do so is to verify so-called digital signature(s) of the file.”*
 
 # Step 3 -
 

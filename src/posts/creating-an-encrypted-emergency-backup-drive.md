@@ -228,12 +228,24 @@ Once done you will see Slot 1 now has your volume path on it, and other details.
 
 You can double click on Slot 1 to open up the volume in your file explorer, or you can access it via ‘Other Locations’.
 
+
+
+![](/images/31-copy.png)
+
 Save the important files you want secured in here.
+
+![](/images/32-copy.png)
 
 Once done you can go back into VeraCrypt, select Slot 1 and then click ‘Dismount’. This will then dismount the encrypted volume and you’ll need to mount it and enter the password again to access.
 
+![](/images/33-copy.png)
+
 This is what the contents of the USB will look like when someone plugs it into a computer, it’s completely inaccessible to anyone else, and you could even rename the encrypted volume to something less obvious.
 
+
+
 Then when you need to add or update the contents just plug it in, mount it using VeraCrypt and enter your password, then save the files you need and unmount it again.
+
+
 
 You can now unplug the USB as usual and store it in a safe place, on a key chain, or even on a necklace.

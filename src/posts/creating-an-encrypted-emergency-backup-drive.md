@@ -34,7 +34,7 @@ You could choose to use a Micro SD card, although these are generally seen as le
 
 You may want to format the drive first, but not required, you can create the encrypted volume alongside your existing data.
 
-Step 2 -
+# Step 2 -
 
 Download VeraCrypt from here - <https://veracrypt.fr/en/Downloads.html>
 
@@ -228,8 +228,6 @@ Once done you will see Slot 1 now has your volume path on it, and other details.
 
 You can double click on Slot 1 to open up the volume in your file explorer, or you can access it via ‘Other Locations’.
 
-
-
 ![](/images/31-copy.png)
 
 Save the important files you want secured in here.
@@ -242,15 +240,9 @@ Once done you can go back into VeraCrypt, select Slot 1 and then click ‘Dismou
 
 This is what the contents of the USB will look like when someone plugs it into a computer, it’s completely inaccessible to anyone else, and you could even rename the encrypted volume to something less obvious.
 
-
-
 Then when you need to add or update the contents just plug it in, mount it using VeraCrypt and enter your password, then save the files you need and unmount it again.
 
-
-
 You can now unplug the USB as usual and store it in a safe place, on a key chain, or even on a necklace.
-
-
 
 Hopefully this helps, and inspires you to think about taking more steps to protecting your data.
 

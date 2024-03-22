@@ -80,7 +80,7 @@ This will download the VeraCrypt public key to your Downloads folder.
 
 ![](/images/6-copy.png)
 
-I have run the command and it’s downloaded the public key, and I have confirmed it’s in my Downloads folder by running ‘ls’ and you can see VeraCrypt_PGP_public_key.asc in there, as well as our previous 2 files.
+I have run the command and it’s downloaded the public key, and I have confirmed it’s in my Downloads folder by running `ls` and you can see VeraCrypt_PGP_public_key.asc in there, as well as our previous 2 files.
 
 Now you want to run the following command (our terminal still needs to be pointing at Downloads) - 'gpg --show-keys VeraCrypt_PGP_public_key.asc'
 

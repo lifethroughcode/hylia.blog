@@ -30,7 +30,7 @@ You could choose to use a Micro SD card, although these are generally seen as le
 
 ![](/images/samsungusb-copy-copy.jpg "64GB Samsung FIT Plus - Perfect for daily wear.")
 
-64GB is way more than I need, but this is going to be different for everyone, you may plan on keeping a lot more on there than I am.
+64GB is way more than I need, but this is going to be different for everyone, you might plan on keeping a lot more on there than I am.
 
 You may want to format the drive first, but not required, you can create the encrypted volume alongside your existing data.
 

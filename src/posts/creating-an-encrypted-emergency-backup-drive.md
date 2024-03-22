@@ -12,7 +12,7 @@ tags:
   - Encryption
   - Wearable Backup
 ---
-Redundancy and Disaster Recovery is a topic that really interests me, it's important both in a work and personal environment. Losing data is not fun.
+Redundancy and Disaster Recovery are topics that really interests me, it's important both in a work and personal environment. Losing data is not fun.
 
 When it comes to my data I don’t want to take any chances, I want to make sure that if disaster happens I am prepared, and have a disaster recovery plan in place. I will perhaps share a guide on creating a personal disaster recovery plan in the future.
 

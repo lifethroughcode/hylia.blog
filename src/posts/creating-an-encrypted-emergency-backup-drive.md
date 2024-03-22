@@ -72,9 +72,9 @@ Either by clicking on the 3 dots while inside the Downloads folder and selecting
 
 ![](/images/5-copy.png)
 
-Or from a terminal type ‘cd Downloads’ and press enter.
+Or from a terminal type `cd Downloads` and press enter.
 
-Now run the command 'wget <https://www.idrix.fr/VeraCrypt/VeraCrypt_PGP_public_key.asc>'
+Now run the command `wget https://www.idrix.fr/VeraCrypt/VeraCrypt_PGP_public_key.asc`
 
 This will download the VeraCrypt public key to your Downloads folder.
 

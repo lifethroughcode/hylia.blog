@@ -184,27 +184,45 @@ Set the size you want your encrypted volume to be, I’m going to use 10GB for t
 
 Set a strong password here (no Password123 is not strong).
 
-This is dependant on you and the size of files you plan to store.
+![](/images/21-copy.png)
+
+This is dependent on you and the size of files you plan to store.
+
+![](/images/22-copy.png)
 
 Choose a Volume format, FAT should be suitable for most use cases.
+
+![](/images/23-copy.png)
 
 Now make random movements around the window with your mouse to increase the cryptographic strength of the encryption keys. I am going to keep moving the mouse until the blue bar is full.
 
 Then click format.
 
-**Encryption go Brrrrrrrrrrrrrrrrr**
+![](/images/24-copy.png "Encryption go brrrrrrrrrrr")
 
 All done!
 
+![](/images/25-copy.png)
+
 You can now press OK and close the VeraCrypt volume format window.
+
+![](/images/26-copy.png)
 
 Now to access your encrypted volume, click on ‘Select File…’
 
+![](/images/27-copy.png)
+
 Find and select the encrypted volume you just made and then click ‘Open’.
+
+![](/images/28-copy.png)
 
 You can see here the path under Volume has updated check this is correct, now select a slot you can click on slot 1 to highlight it, then click ‘Mount’.
 
+![](/images/29-copy.png)
+
 Enter your password and click OK. You may also be prompted to enter your computer password to elevate the permissions.
+
+![](/images/30-copy.png)
 
 Once done you will see Slot 1 now has your volume path on it, and other details.
 
